@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: File Permissions in Linux
+# File Permissions in Linux
 
 ## Scenario
 
